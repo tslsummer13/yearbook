@@ -1,5 +1,5 @@
 body {
-  color: darkblue;
+  color: #505050;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 .superstar {
-  color: blue;
+  color: green;
 }
 
 nav li {
