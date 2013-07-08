@@ -1,0 +1,17 @@
+body {
+  color: darkblue;
+}
+
+h1 {
+  color: darkred;
+  font-size: x-large;
+  text-shadow: 2px 2px 4px grey;
+}
+
+.superstar {
+  color: blue;
+}
+
+nav li {
+  display: inline;
+}
